@@ -1,0 +1,25 @@
+{
+  "name": "react-tiny-toaster",
+  "version": "2.0.2",
+  "description": "A lightweight and customizable toast notification component for React applications.",
+  "main": "Toast.jsx",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "react",
+    "toast",
+    "notification",
+    "component"
+  ],
+  "author": "Your Name",
+  "license": "ISC",
+  "peerDependencies": {
+    "react": "^18.2.0",
+    "react-dom": "^18.2.0"
+  },
+  "devDependencies": {
+    "react": "^18.2.0",
+    "react-dom": "^18.2.0"
+  }
+}
